@@ -1,0 +1,43 @@
+h1 {
+	color: purple;
+	font-family: ;
+}
+div {
+	margin: auto;
+	width: 50%;
+    border: 3px solid purple;
+    padding: 10px;
+
+}
+
+body { 
+	color: grey;
+	font-family: tahoma;
+	background-color:lightblue;
+	text-align: center;
+	padding-top: 40px;
+
+
+ }
+
+img {
+	padding: 50px;
+	width:500px;
+	padding-bottom: 50px;
+
+}
+
+button {
+	color: lightblue;
+	background-color: purple;
+	padding: 10px;
+
+
+
+	}
+
+ul {
+	text-align: left;
+
+
+	}
